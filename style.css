@@ -83,7 +83,7 @@ body {
 }
 .content__image {
     width: 40%;
-    border-radius: ;
+    border-radius: 5px;
     padding: 0 20px;
 }
 .content__description {
